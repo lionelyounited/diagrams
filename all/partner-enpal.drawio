@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T12:55:32.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="nfsKJYjIKuhl6uKX6vvx" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T13:31:37.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="sw-YPqda5jZGe9UENnDt" version="23.1.5" type="github">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
     <mxGraphModel dx="3327" dy="1437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-124">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-20" value="Counter Offer&lt;br&gt;Downgrade" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-23" target="O_qo1a9OV6YFcOZOdrmT-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-23" target="O_qo1a9OV6YFcOZOdrmT-104">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-23" target="O_qo1a9OV6YFcOZOdrmT-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-23" value="Installation done&lt;br&gt;Funding/Activation" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-30" value="contract accessible&lt;br&gt;user must sign" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1392" y="78" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-32" target="O_qo1a9OV6YFcOZOdrmT-59">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-32" target="O_qo1a9OV6YFcOZOdrmT-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-32" value="Cancel/withdraw contract" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
@@ -156,10 +156,10 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-41" value="COMMERCIAL-OFFER" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-121.5" y="407" width="124" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-42" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22cf3b2417-d016-11ee-ba97-000d3a4a8fe4%22,%22timestamp%22:%222024-02-20T17:36:59.7851876Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-42" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22cf3b2417-d016-11ee-ba97-000d3a4a8fe4%22,%22timestamp%22:%222024-02-20T17:36:59.7851876Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="3131" y="-135" width="583" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-43" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22008b83f4-d017-11ee-ba95-00224884a58b%22,%22timestamp%22:%222024-02-20T17:39:06.978587Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-43" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22008b83f4-d017-11ee-ba95-00224884a58b%22,%22timestamp%22:%222024-02-20T17:39:06.978587Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-553.9967317708333" y="-56.0033251953125" width="550" height="88" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-44" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -198,7 +198,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-54" value="ENPAL-API" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="328.5" width="71" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-56" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22002e016c-d017-11ee-ba97-002248824208%22,%22timestamp%22:%222024-02-20T17:38:56.476858Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-56" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22002e016c-d017-11ee-ba97-002248824208%22,%22timestamp%22:%222024-02-20T17:38:56.476858Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="96.99571428571421" y="-96.99665504092269" width="550" height="88" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-57" value="CREDIT-APPLICATION" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -207,8 +207,8 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-58" value="ACQUISITION" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="355" y="445" width="91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-59" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22f4e33422-d016-11ee-ba97-000d3a445bf5%22,%22timestamp%22:%222024-02-20T17:38:24.2263905Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="874.499951171875" y="899.000048828125" width="550" height="88" as="geometry" />
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-59" value="https://dev.azure.com/younitedcredit/SourceHub/_git/Yuc.Bytel.Api?path=/src/Yuc.Bytel.Application/Application/Commands/CancelCreditApplicationCommand.cs&amp;_a=contents&amp;version=GBmain&#xa;&#xa;https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22f4e33422-d016-11ee-ba97-000d3a445bf5%22,%22timestamp%22:%222024-02-20T17:38:24.2263905Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="671" y="897" width="645" height="101" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-60" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1332.5" y="985" width="419" height="329" as="geometry" />
@@ -272,7 +272,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-76" value="trigger&lt;br&gt;sales-contract generation &lt;br&gt;to ENPAL&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="77.93" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-77" value="https://stackoverflow.com/questions/45442818/how-to-download-files-from-azure-blob-storage-with-a-download-link&lt;br&gt;https://learn.microsoft.com/en-us/samples/azure-samples/azure-cxp-developer-support/csharp-web-api-sample-code-to-download-the-blob-content-as-a-stream/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-77" value="https://stackoverflow.com/questions/45442818/how-to-download-files-from-azure-blob-storage-with-a-download-link&lt;br&gt;https://learn.microsoft.com/en-us/samples/azure-samples/azure-cxp-developer-support/csharp-web-api-sample-code-to-download-the-blob-content-as-a-stream/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1493" y="-67" width="1152" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-78" value="ici on doit trigger la génération d&#39;un contrat&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;ET récupérer le sales-contrat généré&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&amp;gt; possiblement de l&#39;attente entre les 2 /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;risque de timeout ? =&amp;gt; NON&lt;br&gt;=&amp;gt; taille de la donnée générée ? =&amp;gt;&amp;nbsp;&lt;br&gt;=&amp;gt; format ? (stream/lien de telecharchement ?) =&amp;gt; string base64&lt;br&gt;=&amp;gt; synchrone ? =&amp;gt; OUI&lt;br&gt;=&amp;gt; auth&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;align=left;spacing=11;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;" vertex="1" parent="1">
@@ -440,6 +440,9 @@
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-134" value="OFFER" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2966.5" y="485.5" width="124" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-137" value="BATCH 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="466.5" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
