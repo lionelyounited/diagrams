@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T09:55:28.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="wAjoPXrYoOOkQx-UXrNw" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T10:00:04.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="n8Y65iLwP75TqX2EuyJT" version="23.1.5" type="github">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
-    <mxGraphModel dx="3035" dy="1318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4029" dy="1726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-1" value="CLA&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;align=center;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1339" y="12" width="236" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1002" y="221.5" width="196" height="294" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -176,12 +176,15 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-47" value="ENPAL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="257.5" width="71" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-54" target="O_qo1a9OV6YFcOZOdrmT-57">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.5" y="348.5000000000002" as="sourcePoint" />
+            <mxPoint x="220.99999999999955" y="445" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-51" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="O_qo1a9OV6YFcOZOdrmT-50">
           <mxGeometry x="-0.3378" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" y="4" as="offset" />
+            <mxPoint y="39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-54" target="O_qo1a9OV6YFcOZOdrmT-58">
@@ -202,7 +205,7 @@
           <mxGeometry x="163" y="445" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-58" value="ACQUISITION" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="458" width="91" height="40" as="geometry" />
+          <mxGeometry x="355" y="445" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-59" value="https://portal.azure.com/#blade/AppInsightsExtension/DetailsV2Blade/DataModel/%7B%22eventId%22:%22f4e33422-d016-11ee-ba97-000d3a445bf5%22,%22timestamp%22:%222024-02-20T17:38:24.2263905Z%22%7D/ComponentId/%7B%22Name%22:%22APS-PR-PARTNERSHIPSERVICESAPI-WEU%22,%22ResourceGroup%22:%22RGP-PR-PARTNER-WEU%22,%22SubscriptionId%22:%22162ae7fd-974a-46a2-bfc6-62cb46bc5a39%22%7D" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="874.499951171875" y="899.000048828125" width="550" height="88" as="geometry" />
@@ -397,6 +400,9 @@
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-118" value="SALES-API" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="57" y="1128" width="124" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-119" value="Attention à la dispo des CreditBureau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
