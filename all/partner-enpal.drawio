@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T16:05:04.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="QvRfOWx5jJrE13FhGpt2" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T16:05:11.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ofA8a_fLml_KrINIVlEH" version="23.1.5" type="github">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
     <mxGraphModel dx="3663" dy="2437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,9 +127,6 @@
           <mxGeometry x="1392" y="78" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-32" target="O_qo1a9OV6YFcOZOdrmT-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-32" target="O_qo1a9OV6YFcOZOdrmT-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-32" value="Cancel/withdraw contract" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
@@ -470,9 +467,6 @@
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-145" value="BATCH 8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
           <mxGeometry x="-2" y="1190" width="64" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-146" value="Cancel/withdraw contract" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
-          <mxGeometry x="1507" y="778" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
