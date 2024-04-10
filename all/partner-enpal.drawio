@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T09:09:18.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="s5oD7v5yzSS1r55g0cn3" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-10T09:42:17.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="-wmfB-cB6ZB11egx4PKT" version="24.2.2" type="github" pages="2">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
     <mxGraphModel dx="2431" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,9 +359,6 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-101" value="envoi d&#39;un lien particlulier liant les 2 CFR&lt;br&gt;&lt;a href=&quot;https://dev.azure.com/younitedcredit/SourceHub/_wiki/wikis/SourceHub.wiki/34290/Upgrade-offer-management&quot;&gt;Upgrade offer management - Overview (azure.com)&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;align=left;spacing=11;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="2342" y="359.5" width="182" height="139.5" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-102" value="=&amp;gt; avanv financement (avec FINANCE)&lt;br&gt;=&amp;gt; mettre à jour l&#39;offre (OFFER)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2873" y="5" width="169" height="76" as="geometry" />
-        </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-103" value="déclencher par ENPAL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="3342" y="51" width="90" height="51" as="geometry" />
         </mxCell>
@@ -493,6 +490,9 @@
             <mxPoint x="697" y="38" as="targetPoint" />
             <mxPoint x="2189" y="71" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oy5WxPQJ6PfJL0dRLctp-2" value="nouveau CFR" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2957" y="41" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
