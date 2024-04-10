@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T13:56:22.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="VO5lFROVsU7pgCsIm_pt" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-10T09:09:18.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="s5oD7v5yzSS1r55g0cn3" version="24.2.2" type="github" pages="2">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
-    <mxGraphModel dx="2231" dy="1419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,9 +68,6 @@
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-18" value="sending&lt;br&gt;Signed contract to&lt;br&gt;ENPAL&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" parent="1" vertex="1">
           <mxGeometry x="1717" y="77.93" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -473,19 +470,29 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-145" value="BATCH 8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" parent="1" vertex="1">
           <mxGeometry x="-17" y="1206" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="6BXcRNOnr5PwhDFnBg1m-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-117" target="6BXcRNOnr5PwhDFnBg1m-3">
+        <mxCell id="6BXcRNOnr5PwhDFnBg1m-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="O_qo1a9OV6YFcOZOdrmT-117" target="6BXcRNOnr5PwhDFnBg1m-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294" y="1081.5" as="sourcePoint" />
             <mxPoint x="241.99999999999955" y="1177.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6BXcRNOnr5PwhDFnBg1m-2" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6BXcRNOnr5PwhDFnBg1m-1">
+        <mxCell id="6BXcRNOnr5PwhDFnBg1m-2" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="6BXcRNOnr5PwhDFnBg1m-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3378" y="3" relative="1" as="geometry">
             <mxPoint y="39" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6BXcRNOnr5PwhDFnBg1m-3" value="CREDIT-APPLICATION" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="6BXcRNOnr5PwhDFnBg1m-3" value="CREDIT-APPLICATION" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="208" y="1150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oy5WxPQJ6PfJL0dRLctp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.006;entryDx=0;entryDy=0;curved=1;entryPerimeter=0;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-20" target="O_qo1a9OV6YFcOZOdrmT-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2940" y="-236" />
+              <mxPoint x="697" y="-236" />
+            </Array>
+            <mxPoint x="697" y="38" as="targetPoint" />
+            <mxPoint x="2189" y="71" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
