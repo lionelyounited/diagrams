@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T13:22:27.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Ycy_lZJ0JSMu_DR7VHz1" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T07:43:45.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="dn-k-_3fbFEhWyoMgc5o" version="24.4.0" type="github" pages="2">
   <diagram name="Page-1" id="ll8dguvFfSGfcC2gaz9z">
-    <mxGraphModel dx="2120" dy="1193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,7 +310,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-87" value="1/ younited =&amp;gt; ENPAL.generate(contract) *&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2/ les documents sont stockés dans document space&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;3/ le user les signe dans la CLA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;4/ enpal vien récupérer les docs *&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;align=left;spacing=11;rotation=349;" parent="1" vertex="1">
           <mxGeometry x="1173" y="-176" width="484" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="O_qo1a9OV6YFcOZOdrmT-88" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="O_qo1a9OV6YFcOZOdrmT-88" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="1967.5" y="323" width="419" height="329" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="O_qo1a9OV6YFcOZOdrmT-90" target="O_qo1a9OV6YFcOZOdrmT-97" edge="1">
@@ -376,7 +376,7 @@
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-108" value="ENPAL-API" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3575" y="386.5" width="71" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nlS1e5o8SFnvDb-lGMSu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="O_qo1a9OV6YFcOZOdrmT-109" target="nlS1e5o8SFnvDb-lGMSu-3">
+        <mxCell id="nlS1e5o8SFnvDb-lGMSu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="O_qo1a9OV6YFcOZOdrmT-109" target="nlS1e5o8SFnvDb-lGMSu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O_qo1a9OV6YFcOZOdrmT-109" value="SERVICE-BUS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -460,7 +460,7 @@
         <mxCell id="oy5WxPQJ6PfJL0dRLctp-2" value="nouveau CFR" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="2957" y="41" width="131" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oy5WxPQJ6PfJL0dRLctp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="oy5WxPQJ6PfJL0dRLctp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2718.5" y="339.5" width="419" height="329" as="geometry" />
         </mxCell>
         <mxCell id="oy5WxPQJ6PfJL0dRLctp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="oy5WxPQJ6PfJL0dRLctp-5" target="oy5WxPQJ6PfJL0dRLctp-12" edge="1">
@@ -511,7 +511,7 @@
         <mxCell id="oy5WxPQJ6PfJL0dRLctp-17" value="BATCH 7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" parent="1" vertex="1">
           <mxGeometry x="2712" y="635.5" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="nlS1e5o8SFnvDb-lGMSu-3" value="ENPAL-AFC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nlS1e5o8SFnvDb-lGMSu-3" value="ENPAL-AFC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3575" y="536" width="71" height="40" as="geometry" />
         </mxCell>
       </root>
